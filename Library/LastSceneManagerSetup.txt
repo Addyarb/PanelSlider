@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/addya/Development/DragonsGarden/Assets/Scenes/2DEggSelection.unity
+  isLoaded: 1
+  isActive: 1
